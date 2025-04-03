@@ -1,5 +1,5 @@
 #' @name doi2bib
-#' @title Downloading bibliogrphic references from DOIs
+#' @title Downloading bibliographic references from DOIs
 #'
 #' @description
 #' Retrieving bibliographic entries from Crossref by DOIs.
